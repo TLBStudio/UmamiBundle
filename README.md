@@ -11,7 +11,7 @@ It supports:
 ## Requirements
 
 - PHP 8.2+
-- Symfony 8
+- Symfony 6.4+
 - Umami v3
 
 Intended package name: `tlb/umami-bundle`.
