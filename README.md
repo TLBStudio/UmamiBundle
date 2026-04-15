@@ -10,7 +10,7 @@ It supports:
 
 ## Requirements
 
-- PHP 8.2+
+- PHP 8.1+
 - Symfony 6.4+
 - Umami v3
 
